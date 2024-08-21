@@ -9,6 +9,7 @@ The LLMs, despite their capabilities, often lack access to specific company-rela
 In this project, I built a RAG system designed to answer questions about the “Leave No Context Behind” paper, published by Google on April 10th, 2024. The system retrieves relevant sections of the paper and uses them as context when generating responses, thereby significantly improving the accuracy of the answers.
 
 Key Features:
+
 LLM Integration:
 
 Used Google’s Gemini 1.5 Pro LLM as the core model for generating responses.
